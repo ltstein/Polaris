@@ -7,9 +7,16 @@ Complete 3d printed headset of reference Leap Motion design, assembled and mount
 
 Calibrated using process developed by Leap Motion
 
-Current Requirements:
-Driver board uses MiniDisplayPort input
-Unity 
+#### Current Requirements:
+-Hardware
+	- MiniDisplayPort Cable to connect to display driver board
+	- USB3 port for Leap Motion
+	-(Working) Power adapter for Driver Board
+
+-Software
+	- Unity 2018.2 or above
+	- See https://github.com/ltstein/Polaris/tree/master/Software
+
 
 
 See the first demo video [Polaris Demo 1](https://youtu.be/ja0qZbOFRDk "Initial Leap Tracking Demo")
