@@ -1,0 +1,10 @@
+{
+  "CalibrationMonitorActiveAreaMeters": {
+  "x": 0.5222875,
+  "y": 0.2968625
+},
+  "CalibrationSimplexSize": 0.004,
+  "CalibrationRotationRatio": 750,
+  "CalibrationCalculateDeviationFromMean": true,
+  "CalibrationImageDelay": 0.1
+}
