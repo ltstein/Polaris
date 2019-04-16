@@ -10,7 +10,8 @@ Calibrated using process developed by Leap Motion
 Does NOT include:
 MiniDisplay Port Cable
 
+See the first demo video [Polaris Demo 1](https://youtu.be/AgMxQtNrXjs "Initial Leap Tracking Demo")
 
-
-
+Below is a shot of the headset without the top cover. It is sitting on the calibration stand.
+![PNS_TS_OnStand.jpg]({{site.baseurl}}/imgs/PNS_TS_OnStand.jpg)
 
