@@ -12,4 +12,4 @@ Project North Star is under active develpment by the community and Leap Motion.
 
 
 ![PNS_FQ_OnStand.jpg]({{site.baseurl}}/imgs/PNS_FQ_OnStand.jpg)
-![PNS_TS_OnStand.jpg]({{site.baseurl}}/imgs/PNS_TS_OnStand.jpg)
+
