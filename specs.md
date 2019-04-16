@@ -7,11 +7,12 @@ Complete 3d printed headset of reference Leap Motion design, assembled and mount
 
 Calibrated using process developed by Leap Motion
 
-Does NOT include:
-MiniDisplay Port Cable
+Current Requirements:
+Driver board uses MiniDisplayPort input
+Unity 
+
 
 See the first demo video [Polaris Demo 1](https://youtu.be/ja0qZbOFRDk "Initial Leap Tracking Demo")
 
 Below is a shot of the headset without the top cover. It is sitting on the calibration stand.
 ![PNS_TS_OnStand.jpg]({{site.baseurl}}/imgs/PNS_TS_OnStand.jpg)
-
