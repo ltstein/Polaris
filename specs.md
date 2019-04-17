@@ -2,20 +2,25 @@
 
 Based on Project North Star Ver. 3.1 Reference design
 
-To include:
-Complete 3d printed headset of reference Leap Motion design, assembled and mounted to headgear with electronics (Leap Motion Controller w/USB cable, 3.5 in BOE Displays, Reference Display driver)
+### To include:
+- [Complete 3d printed headset of reference Leap Motion design V3.1](https://github.com/ltstein/Polaris/tree/master/Mechanical/North%20Star%20Release%203%203D%20Files/3D%20Printing%20STL/3D%20Printing%20STL)
+- [Reflector lens](https://www.smart-prototyping.com/AR-VR-MR-XR/Project-North-Star-Lens)
+- Leap Motion Controller w/USB cable 
+- [3.5 in BOE Displays](https://www.smart-prototyping.com/AR-VR-MR-XR/Display-for-Project-North-Star-3_5inch-1440x1600-pixels) 
+- [Reference Display driver](https://www.smart-prototyping.com/AR-VR-MR-XR/Project-North-Star-Display-Driver-Board)
 
 Calibrated using process developed by Leap Motion
 
-#### Current Requirements:
--Hardware  
-	- MiniDisplayPort Cable to connect to display driver board  
-	- USB3 port for Leap Motion  
-	-(Working) Power adapter for Driver Board  
+### Current Requirements:
+Hardware  
+- MiniDisplayPort Cable to connect to display driver board  
+- USB3 port for Leap Motion  
+- Power adapter for Driver Board
+  
 
--Software  
-	- Unity 2018.2 or above  
-	- See https://github.com/ltstein/Polaris/tree/master/Software
+Software  
+- Unity 2018.2 or above  
+- See <https://github.com/ltstein/Polaris/tree/master/Software/>
 
 
 
